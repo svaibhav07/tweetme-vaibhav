@@ -8,5 +8,5 @@ pytz==2017.2
 setuptools==36.5.0
 wheel==0.30.0
 gunicorn==19.6.0
-whitenoise==3.2
+whitenoise==3.2.1
 django-heroku
