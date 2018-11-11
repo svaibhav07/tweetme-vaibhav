@@ -139,7 +139,7 @@ STATICFILES_DIRS = [
 # will be served
 STATIC_ROOT =  os.path.join(os.path.dirname(BASE_DIR), "static-serve") 
 
-
+import dj_database_url
 
 CRISPY_TEMPLATE_PACK  = 'bootstrap3'
 
